@@ -7,7 +7,7 @@ We combine machine learning **computational modeling**, **electrophysiological r
 * Our core members are:
 * [Pedro Pinheiro-Chagas, PhD](https://scholar.google.com/citations?user=XVsftdsAAAAJ&hl) - PI Assistant Professor UCSF
 * [Betinna Pedemonte, PhD](https://memory.ucsf.edu/people/bettina-pedemonte) - Math Specialist UCSF
-* [Margo Kersey](https://memory.ucsf.edu/people/bettina-pedemonte](https://profiles.ucsf.edu/margo.kersey) - aCRC UCSF
+* [Margo Kersey](https://profiles.ucsf.edu/margo.kersey) - aCRC UCSF
 * [Rian Bogley](https://profiles.ucsf.edu/rian.bogley) - Database Architect UCSF
 
 
