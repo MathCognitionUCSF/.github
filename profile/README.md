@@ -1,6 +1,6 @@
 # Math Cognition UCSF 
 
-### We are a team studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems such as **mathematics** and **language**. Our research program aims at understanding how these systems develop and decline, and how we can help.
+## We are a team studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems such as **mathematics** and **language**. Our research program aims at understanding how these systems develop and decline, and how we can help.
 
 We combine machine learning **computational modeling**, **electrophysiological recordings** (intracranial EEG, MEG), **neuroimaging** (fMRI), **continuous behavioral measures** (trajectory-tracking), and **neuropsychology** to study the processing stages and representational codes underlying cognitive operations. Complementarily, we use intracranial electrical stimulation to modulate brain activity and behavior.
 
@@ -27,7 +27,6 @@ Furthermore, we are active participants of initiatives to promote **open, inclus
 <p float="left">
   <img src="/assets/weillmac_logo.png" width="340" />
   <img src="/assets/weillneurosurgery_logo.png" width="330" />
-  <img src="/assets/berkeleypsych_logo.png" width="330" />
 </p>
 
 <!--
