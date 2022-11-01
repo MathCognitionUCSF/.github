@@ -2,11 +2,6 @@
 
 ### We are a team studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems such as **mathematics** and **language**. Our research program aims at understanding how these systems develop and decline, and how we can help.
 
-<p float="left">
-  <img src="/assets/weillmac_logo.png" width="310" />
-  <img src="/assets/weillneurosurgery_logo.png" width="300" />
-</p>
-
 We combine machine learning **computational modeling**, **electrophysiological recordings** (intracranial EEG, MEG), **neuroimaging** (fMRI), **continuous behavioral measures** (trajectory-tracking), and **neuropsychology** to study the processing stages and representational codes underlying cognitive operations. Complementarily, we use intracranial electrical stimulation to modulate brain activity and behavior.
 
 We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and initiatives:
@@ -25,6 +20,11 @@ Furthermore, we are active participants of initiatives to promote **open, inclus
 * [Full iEEG preprocessing and analysis toolbox](https://github.com/pinheirochagas/lbcn_preproc)
 * [Methods for MEG multivariate decoding](https://github.com/pinheirochagas/Calc_MEG)
 * [Toolbox to convert iEEG data into the Neurodata Without Borders data standard](https://github.com/pinheirochagas/lbcn_nwb)
+
+<p float="left">
+  <img src="/assets/weillmac_logo.png" width="350" />
+  <img src="/assets/weillneurosurgery_logo.png" width="340" />
+</p>
 
 <!--
 
