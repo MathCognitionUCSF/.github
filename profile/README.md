@@ -25,9 +25,9 @@ Furthermore, we are active participants of initiatives to promote **open, inclus
 &nbsp;  
 
 <p float="left">
-  <img src="/assets/weillmac_logo.png" width="360" />
-  <img src="/assets/weillneurosurgery_logo.png" width="350" />
-  <img src="/assets/berkeleypsych_logo.png" width="350" />
+  <img src="/assets/weillmac_logo.png" width="340" />
+  <img src="/assets/weillneurosurgery_logo.png" width="330" />
+  <img src="/assets/berkeleypsych_logo.png" width="330" />
 </p>
 
 <!--
