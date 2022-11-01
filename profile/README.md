@@ -21,6 +21,8 @@ Furthermore, we are active participants of initiatives to promote **open, inclus
 * [Methods for MEG multivariate decoding](https://github.com/pinheirochagas/Calc_MEG)
 * [Toolbox to convert iEEG data into the Neurodata Without Borders data standard](https://github.com/pinheirochagas/lbcn_nwb)
 
+
+
 <p float="left">
   <img src="/assets/weillmac_logo.png" width="360" />
   <img src="/assets/weillneurosurgery_logo.png" width="350" />
