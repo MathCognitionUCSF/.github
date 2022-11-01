@@ -13,8 +13,8 @@ We combine machine learning **computational modeling**, **electrophysiological r
 
 We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and initiatives:
 * [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/) (UCSF)
-* [Multitudes](https://dyslexia.ucsf.edu/multitudes-partners) (UCSF)
 * [ALBA Lab](https://albalab.ucsf.edu/) (UCSF)
+* [Multitudes](https://dyslexia.ucsf.edu/multitudes-partners) (UCSF)
 * [Chang Lab](https://changlab.ucsf.edu/) (UCSF)
 * [CAN Lab](https://canlab.ucsf.edu/) (UCSF)
 * [Computational and Language Lab](http://colala.berkeley.edu/) (UC Berkeley) 
