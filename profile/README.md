@@ -4,7 +4,7 @@
 
 We combine machine learning **computational modeling**, **electrophysiological recordings** (intracranial EEG, MEG), **neuroimaging** (fMRI), **continuous behavioral measures** (trajectory-tracking), and **neuropsychology** to study the processing stages and representational codes underlying cognitive operations. Complementarily, we use intracranial electrical stimulation to modulate brain activity and behavior.
 
-We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and innitiatives:
+We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and initiatives:
 * [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/) (UCSF)
 * [Multitudes](https://dyslexia.ucsf.edu/multitudes-partners) (UCSF)
 * [ALBA Lab](https://albalab.ucsf.edu/) (UCSF)
