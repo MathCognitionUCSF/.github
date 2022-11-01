@@ -27,8 +27,8 @@ Furthermore, we are active participants of initiatives to promote **open, inclus
 <p float="left">
   <img src="/assets/weillmac_logo.png" width="300" />
   <img src="/assets/weillneurosurgery_logo.png" width="300" />
-  <img src="/assets/dyslexiacenter_logo.png" width="200" />
-  <img src="/assets/multitudes_logo.png" width="300" />
+  <img src="/assets/dyslexiacenter_logo.png" width="190" />
+  <img src="/assets/multitudes_logo.png" width="270" />
 </p>
 
 <!--
