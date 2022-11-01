@@ -5,14 +5,14 @@
 We combine machine learning **computational modeling**, **electrophysiological recordings** (intracranial EEG, MEG), **neuroimaging** (fMRI), **continuous behavioral measures** (trajectory-tracking), and **neuropsychology** to study the processing stages and representational codes underlying cognitive operations. Complementarily, we use intracranial electrical stimulation to modulate brain activity and behavior.
 
 We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and innitiatives:
-* UCSF Dyslexia Center (UCSF)
-* Multitudes(UCSF)
-* ALBA Lab (UCSF)
+* [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/) (UCSF)
+* [Multitudes](https://dyslexia.ucsf.edu/multitudes-partners) (UCSF)
+* [ALBA Lab](https://albalab.ucsf.edu/) (UCSF)
 * [Chang Lab](https://changlab.ucsf.edu/) (UCSF)
 * [Computational and Language Lab](http://colala.berkeley.edu/) (UC Berkeley) 
 
 Our current projects are:
-* NeuroCausal 
+* [NeuroCausal](https://neurocausal.github.io/)
 
 Furthermore, we are active participants of initiatives to promote **open, inclusive, and reproducible science**, such as the BrainHack community (see our recent perspective in Neuron: Brainhack: Developing a culture of open, inclusive, community-driven neuroscience – 2021 - https://doi.org/10.1016/j.neuron.2021.04.001). Because of the interdisciplinary nature of our research program, we have developed and improved methods to measure behavior and model brain activity. All methods are **open source and publicly available**, notably: 
 
