@@ -8,8 +8,8 @@ We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departm
 * UCSF Dyslexia Center (UCSF)
 * Multitudes(UCSF)
 * ALBA Lab (UCSF)
-* Chang Lab (UCSF)
-* Computational and Language Lab (UC Berkeley) http://colala.berkeley.edu/
+* [Chang Lab](https://changlab.ucsf.edu/) (UCSF)
+* [Computational and Language Lab](http://colala.berkeley.edu/) (UC Berkeley) 
 
 Our current projects are:
 * NeuroCausal 
@@ -20,8 +20,6 @@ Furthermore, we are active participants of initiatives to promote **open, inclus
 * Full iEEG preprocessing and analysis toolbox (https://github.com/pinheirochagas/lbcn_preproc)
 * Methods for MEG multivariate decoding (https://github.com/pinheirochagas/Calc_MEG)
 * Toolbox to convert iEEG data into the Neurodata Without Borders data standard (https://github.com/pinheirochagas/lbcn_nwb)
-
-(https://user-images.githubusercontent.com/11750113/199281779-10211c21-0408-42a5-b45e-c684ca109f28.png)
 
 <!--
 
