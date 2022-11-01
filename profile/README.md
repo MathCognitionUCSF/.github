@@ -23,7 +23,7 @@ We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departm
 Our current projects are:
 * Logical primitives of symbolic reasoning
 * Neurocognitive mechanisms underlying the co-occurence of Dyslexia and Dyscalculia
-* [NeuroCausal](https://neurocausal.github.io/)
+* [NeuroCausal - an open data sharing and metadata synthesis platform for clinical data](https://neurocausal.github.io/)
 * A machine learning framework for classifying and predicting neurodevelopmental disorders
 * Behavioral and neurological signatures of math deficits in primary progressive aphasia 
 * [A novel approach to subtypes of developmental dyscalculia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XVsftdsAAAAJ&sortby=pubdate&citation_for_view=XVsftdsAAAAJ:O3NaXMp0MMsC)
