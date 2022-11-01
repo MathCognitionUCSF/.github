@@ -14,7 +14,7 @@ We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departm
 Our current projects are:
 * [NeuroCausal](https://neurocausal.github.io/)
 
-Furthermore, we are active participants of initiatives to promote **open, inclusive, and reproducible science**, such as the BrainHack community (see our recent perspective in Neuron: *[Brainhack: Developing a culture of open, inclusive, community-driven neuroscience – 2021](https://doi.org/10.1016/j.neuron.2021.04.001)*). Because of the interdisciplinary nature of our research program, we have developed and improved methods to measure behavior and model brain activity. All methods are **open source** and **publicly available**, notably: 
+Furthermore, we are active participants of initiatives to promote **open, inclusive, and reproducible science**, such as the BrainHack community (see our recent perspective in Neuron: *[Brainhack: Developing a culture of open, inclusive, community-driven neuroscience – 2021](https://doi.org/10.1016/j.neuron.2021.04.001)*). Because of the interdisciplinary nature of our research program, we have developed and improved methods to measure behavior and model brain activity. All methods are **open source and publicly available**, notably: 
 
 * [Trajectory tracking](https://trajtracker.com/)
 * [Full iEEG preprocessing and analysis toolbox](https://github.com/pinheirochagas/lbcn_preproc)
