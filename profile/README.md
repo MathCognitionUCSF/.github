@@ -1,7 +1,7 @@
 # Math Cognition UCSF 
 
 <p float="left">
-  <img src="/assets/weillmac_logo.png" width="320" />
+  <img src="/assets/weillmac_logo.png" width="310" />
   <img src="/assets/weillneurosurgery_logo.png" width="300" />
 </p>
 
