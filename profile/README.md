@@ -25,9 +25,9 @@ Our current projects are:
 * Neurocognitive mechanisms underlying the co-occurence of Dyslexia and Dyscalculia
 * [NeuroCausal](https://neurocausal.github.io/)
 * A machine learning framework for classifying and predicting neurodevelopmental disorders
-* Neurophisiological basis of math anxiety
 * Behavioral and neurological signatures of math deficits in primary progressive aphasia 
 * [A novel approach to subtypes of developmental dyscalculia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XVsftdsAAAAJ&sortby=pubdate&citation_for_view=XVsftdsAAAAJ:O3NaXMp0MMsC)
+* Neurophisiological basis of math anxiety
 
 We are active participants of initiatives to promote **open, inclusive, and reproducible science**: 
 * [Brainhack: Developing a culture of open, inclusive, community-driven neuroscience](https://doi.org/10.1016/j.neuron.2021.04.001). 
