@@ -35,7 +35,7 @@ We are active participants of initiatives to promote **open, inclusive, and repr
 
 Because of the interdisciplinary nature of our research program, we have developed and improved methods to measure behavior and model brain activity. All methods are **open source and publicly available**, notably: 
 * [Trajectory tracking](https://trajtracker.com/)
-* [Full iEEG preprocessing and analysis toolbox](https://github.com/pinheirochagas/lbcn_preproc)
+* [iEEG preprocessing and analysis toolbox](https://github.com/pinheirochagas/lbcn_preproc)
 * [Methods for MEG multivariate decoding](https://github.com/pinheirochagas/Calc_MEG)
 * [Toolbox to convert iEEG data into the Neurodata Without Borders data standard](https://github.com/pinheirochagas/lbcn_nwb)
 
