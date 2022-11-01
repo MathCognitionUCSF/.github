@@ -1,6 +1,6 @@
-# Math Cognition UCSF
+# Math Cognition UCSF 
 
-![logo1](https://github.com/MathCognitionUCSF/.github/assets/weillmac_logo.png)
+![logo1](/assets/weillmac_logo.png)
 ![logo2](https://github.com/MathCognitionUCSF/.github/assets/weillneurosurgery_logo.png)
 
 ### We are a team studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems such as **mathematics** and **language**. Our research program aims at understanding how these systems develop and decline, and how we can help.
