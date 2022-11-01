@@ -5,10 +5,10 @@ We are a multidisciplinary team studying the neural architecture and dynamics of
 We combine machine learning **computational modeling**, **electrophysiological recordings** (intracranial EEG, MEG), **neuroimaging** (fMRI), **continuous behavioral measures** (trajectory-tracking), and **neuropsychology** to study the processing stages and representational codes underlying cognitive operations. Complementarily, we use intracranial electrical stimulation to modulate brain activity and behavior.
 
 * Our core members are:
-* [Pedro Pinheiro-Chagas, PhD](https://scholar.google.com/citations?user=XVsftdsAAAAJ&hl) - Assistant Professor UCSF
+* [Pedro Pinheiro-Chagas, PhD](https://scholar.google.com/citations?user=XVsftdsAAAAJ&hl) - PI Assistant Professor UCSF
 * [Betinna Pedemonte, PhD](https://memory.ucsf.edu/people/bettina-pedemonte) - Math Specialist UCSF
-* [Margo Kersey]([https://memory.ucsf.edu/people/bettina-pedemonte](https://profiles.ucsf.edu/margo.kersey) - aCRC UCSF
-* [Rian Bogley]([https://memory.ucsf.edu/people/bettina-pedemonte](https://profiles.ucsf.edu/margo.kersey) - aCRC UCSF
+* [Margo Kersey](https://memory.ucsf.edu/people/bettina-pedemonte](https://profiles.ucsf.edu/margo.kersey) - aCRC UCSF
+* [Rian Bogley](https://profiles.ucsf.edu/rian.bogley) - Database Architect UCSF
 
 
 We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and initiatives:
