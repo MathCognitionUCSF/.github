@@ -10,6 +10,7 @@ We combine machine learning **computational modeling**, **electrophysiological r
 * [Mariah Pospisil, MEd](https://memory.ucsf.edu/people/mariah-pospisil) - Learning Interventions Applied Research Manager
 * [Margo Kersey](https://profiles.ucsf.edu/margo.kersey) - Clinical Research Coordinator
 * [Rian Bogley](https://profiles.ucsf.edu/rian.bogley) - Database Architect
+* Daniel Quintana - UCSF Medical Student
 
 We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and initiatives:
 * [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/) (UCSF)
