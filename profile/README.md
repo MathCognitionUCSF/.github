@@ -8,7 +8,7 @@ We combine machine learning **computational modeling**, **electrophysiological r
 * [Pedro Pinheiro-Chagas, PhD](https://scholar.google.com/citations?user=XVsftdsAAAAJ&hl) - PI Assistant Professor
 * [Betinna Pedemonte, PhD](https://memory.ucsf.edu/people/bettina-pedemonte) - Full Specialist in Math Education
 * [Mariah Pospisil, MEd](https://memory.ucsf.edu/people/mariah-pospisil) - Learning Interventions Applied Research Manager
-* [Margo Kersey](https://profiles.ucsf.edu/margo.kersey) - Clinical Research Coordinator
+* [Margo Kersey](https://profiles.ucsf.edu/margo.kersey) - Research Data Analyst
 * [Rian Bogley](https://profiles.ucsf.edu/rian.bogley) - Database Architect
 * Daniel Quintana - UCSF Medical Student
 
